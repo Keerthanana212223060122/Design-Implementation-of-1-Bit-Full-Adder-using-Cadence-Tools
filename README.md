@@ -48,7 +48,7 @@ ii)	Create Schematic Cell view.
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
 
-![IMG-20241019-WA0034]"C:\Users\Admin\OneDrive\Pictures\Screenshots 1\Screenshot 2024-11-13 084026.png"
+![WhatsApp Image 2024-11-15 at 17 40 37_a48f2290](https://github.com/user-attachments/assets/d7924ba3-6db7-442d-914d-b62c8c9cad08)
 
 
  
@@ -66,7 +66,7 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
- ![IMG-20241019-WA0035]"C:\Users\Admin\OneDrive\Pictures\Screenshots 1\Screenshot 2024-11-13 084100.png"
+ ![WhatsApp Image 2024-11-15 at 17 40 35_3fbf8fe6](https://github.com/user-attachments/assets/f7502e08-5de2-4355-a335-2515dbdc35de)
 
 
 
@@ -81,7 +81,7 @@ iv)	Creating the new test cell view
 •	Follow the step 3(ii) d to make the required connections
 
 
-![IMG-20241019-WA0036]"C:\Users\Admin\OneDrive\Pictures\Screenshots 1\Screenshot 2024-11-13 084109.png"
+![WhatsApp Image 2024-11-15 at 17 40 36_af38408a](https://github.com/user-attachments/assets/46ebcab0-3b6b-4e01-9641-73e414ee7dab)
 
  
 Analog simulation by SPECTRE.
@@ -94,12 +94,15 @@ Analog simulation by SPECTRE.
 	Execute Output s—to be plotted – Select on Schematic
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
-![IMG-20241019-WA0033]"C:\Users\Admin\OneDrive\Pictures\Screenshots 1\Screenshot 2024-11-13 084121.png"
+![WhatsApp Image 2024-11-15 at 17 40 37_e77ab727](https://github.com/user-attachments/assets/b3dbb4c3-4040-4d37-9c9c-930f72f02800)
+
 
 
 For Transient Analysis Settings and Output
  
-![IMG-20241019-WA0040]"C:\Users\Admin\OneDrive\Pictures\Screenshots 1\Screenshot 2024-11-13 084130.png"
+![WhatsApp Image 2024-11-15 at 17 40 36_b2411291](https://github.com/user-attachments/assets/33ca6d6f-daa5-4d33-9b7a-100a340cfabc)
+
+![Screenshot 2024-11-15 211308](https://github.com/user-attachments/assets/0da8553d-3ea1-4aab-86f4-17c9abe4075f)
 
 
  
